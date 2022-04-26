@@ -1,9 +1,9 @@
-import React, {useState, useEffect} from 'react'
+import React from 'react'
 
 const Home = () => {
     return (
         <div className="component">
-            我是首页
+            我是首页1
         </div>
     )
 }
